@@ -36,13 +36,13 @@ The **Cybersecurity Operations Lab** is an **ongoing project** designed to help 
 
 | **Skill**                                      | **Associated Project**              |
 |-----------------------------------------------|-------------------------------------|
-| **Security Information & Event Management (SIEM)** | **Cybersecurity Operations Lab** |
-| **Network Traffic Analysis & Attack Detection** | **Cybersecurity Operations Lab** |
-| **Incident Response & Threat Investigation**   | **Cybersecurity Operations Lab** |
-| **Threat Hunting & Adversary Emulation**      | **Cybersecurity Operations Lab** |
-| **Scripting & Automation (PowerShell, Python, Bash)** | **Cybersecurity Operations Lab** |
-| **Firewall & Intrusion Detection Systems**     | **Cybersecurity Operations Lab** |
-| **Security Engineering & Hardening**           | **Cybersecurity Operations Lab** |
+| **Security Information & Event Management (SIEM)** | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Network Traffic Analysis & Attack Detection** | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Incident Response & Threat Investigation**   | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Threat Hunting & Adversary Emulation**      | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Scripting & Automation (PowerShell, Python, Bash)** | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Firewall & Intrusion Detection Systems**     | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
+| **Security Engineering & Hardening**           | [Cybersecurity Operations Lab](https://github.com/ArkcessJeff/Cybersecurity-Operations-Lab) |
 
 ---
 
