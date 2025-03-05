@@ -9,7 +9,7 @@ I am a **Cybersecurity Professional** with extensive hands-on experience in **Se
 
 I have worked with **prestigious organizations** such as **ECS Federal** and **GDIT**, where I collaborated with cyber defense teams to validate alerts, investigate threats, and ensure cybersecurity solutions effectively reduce risks to an acceptable level.  
 
-In addition to my industry experience, I am the **Co-Founder of Sentinel Cyber Institute**, an initiative dedicated to equipping aspiring cybersecurity professionals with **real-world, hands-on training tailored to SOC roles**. At Sentinel Cyber Institute, I design and deliver **comprehensive cybersecurity education**, covering **Intro to IT** and **SOC career pathways**, using **advanced labs, real-world assessments, SIEM platforms, virtual machines, and network simulators** to prepare learners for **job-ready cybersecurity roles**.
+In addition to my industry experience, I am the **Co-Founder** of [Sentinel Cyber Institute](https://www.sentinelcyberinstitute.com), an initiative dedicated to equipping aspiring cybersecurity professionals with **real-world, hands-on training tailored to SOC roles**. At Sentinel Cyber Institute, I design and deliver **comprehensive cybersecurity education**, covering **Intro to IT** and **SOC career pathways**, using **advanced labs, real-world assessments, SIEM platforms, virtual machines, and network simulators** to prepare learners for **job-ready cybersecurity roles**.
 
 ---
 
